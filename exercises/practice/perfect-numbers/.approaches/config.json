@@ -14,7 +14,8 @@
       "authors": [
         "erikschierboom",
         "aage"
-      ]
+      ],
+      "concepts": ["if-statements"]
     },
     {
       "uuid": "fb72e324-eed2-46bb-a6a9-cb3bb68514bf",
@@ -23,7 +24,8 @@
       "blurb": "Use switch expression to check for a perfect number.",
       "authors": [
         "aage"
-      ]
+      ],
+      "concepts": ["switch-expression"]
     }
   ]
 }

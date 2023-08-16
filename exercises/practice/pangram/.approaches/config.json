@@ -12,7 +12,8 @@
       "blurb": "Use All with Contains on lowercased letters.",
       "authors": [
         "bobahop"
-      ]
+      ],
+      "concepts": ["<all-method>", "<contains-method>", "<to-lower-method>"]
     },
     {
       "uuid": "8886e091-72bf-40c7-9e86-fdde96bbbae2",
@@ -21,7 +22,8 @@
       "blurb": "Use All with Contains using case insensitive.",
       "authors": [
         "bobahop"
-      ]
+      ],
+      "concepts": ["<all-method>", "<contains-method>", "string-comparison"]
     },
     {
       "uuid": "7eeae24f-d815-400c-9749-b617864e185f",
@@ -30,7 +32,8 @@
       "blurb": "Use a bit field to keep track of used letters.",
       "authors": [
         "bobahop"
-      ]
+      ],
+      "concepts": ["bit-manipulation"]
     }
   ]
 }

@@ -12,7 +12,8 @@
       "blurb": "Use AsParallel() to parallelize counting characters.",
       "authors": [
         "erikschierboom"
-      ]
+      ],
+      "concepts": ["<as-parallel-method>"]
     }
   ]
 }

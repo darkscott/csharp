@@ -12,7 +12,8 @@
       "blurb": "Use LINQ to score yacht hands.",
       "authors": [
         "erikschierboom"
-      ]
+      ],
+      "concepts": ["linq"]
     }
   ]
 }

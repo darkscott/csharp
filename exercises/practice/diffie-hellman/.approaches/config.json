@@ -12,7 +12,8 @@
       "blurb": "Use the BigInteger class to easily implement diffie-hellman.",
       "authors": [
         "erikschierboom"
-      ]
+      ],
+      "concepts": ["big-integers"]
     }
   ]
 }

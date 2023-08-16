@@ -12,7 +12,8 @@
       "blurb": "Use specialized sorted collections for automatic sorting.",
       "authors": [
         "erikschierboom"
-      ]
+      ],
+      "concepts": ["sorted-collections"]
     }
   ]
 }

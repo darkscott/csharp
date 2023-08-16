@@ -12,7 +12,8 @@
       "blurb": "Use regular expressions to match and rewrite a sentence.",
       "authors": [
         "erikschierboom"
-      ]
+      ],
+      "concepts": ["regular-expressions"]
     }
   ]
 }

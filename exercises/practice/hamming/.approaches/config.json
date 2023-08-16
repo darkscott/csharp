@@ -12,7 +12,8 @@
       "blurb": "Calculate the hamming distance via LINQ.",
       "authors": [
         "erikschierboom"
-      ]
+      ],
+      "concepts": ["linq"]
     },
     {
       "uuid": "d210b47c-b61d-4a73-be55-23c68ce1b600",
@@ -21,7 +22,8 @@
       "blurb": "Calculate the hamming distance using a for-loop.",
       "authors": [
         "erikschierboom"
-      ]
+      ],
+      "concepts": ["for-loops"]
     }
   ]
 }

@@ -12,7 +12,8 @@
       "blurb": "Use LINQ to calculate the sums.",
       "authors": [
         "erikschierboom"
-      ]
+      ],
+      "concepts": ["linq"]
     },
     {
       "uuid": "a6118dd7-26d5-4576-919f-11a584beeef8",
@@ -21,7 +22,8 @@
       "blurb": "Use a for statement to calculate the sums.",
       "authors": [
         "erikschierboom"
-      ]
+      ],
+      "concepts": ["for-statements"]
     },
     {
       "uuid": "bdcb02d2-1a34-4a52-a80c-ca94907ba721",
@@ -30,7 +32,9 @@
       "blurb": "Use math to calculate the sums.",
       "authors": [
         "erikschierboom"
-      ]
+      ],
+      "concepts": ["<math-formula>"],
+      "excluded_concepts": ["for-statements", "linq"]
     }
   ]
 }

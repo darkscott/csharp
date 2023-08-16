@@ -12,7 +12,8 @@
       "blurb": "Use IComparer<T> to compare hands.",
       "authors": [
         "erikschierboom"
-      ]
+      ],
+      "concepts": ["comparing"]
     },
     {
       "uuid": "0d49c2c9-6ec7-4dda-9a23-bb8d77823aea",
@@ -21,7 +22,8 @@
       "blurb": "Score each hand as an integer.",
       "authors": [
         "erikschierboom"
-      ]
+      ],
+      "concepts": ["<integer-score>"]
     }
   ]
 }

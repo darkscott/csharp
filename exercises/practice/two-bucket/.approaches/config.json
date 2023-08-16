@@ -12,7 +12,8 @@
       "blurb": "Model the problem as a graph and use Dijkstra's algorithm to find the shortest path.",
       "authors": [
         "erikschierboom"
-      ]
+      ],
+      "concepts": ["<shortest-path-in-graph>"]
     }
   ]
 }
